@@ -1,6 +1,6 @@
 ## ✨ Hello World!
 I'm Isabelle (or Izzy), I'm a Front-End Developer from São Paulo/SP - Brasil.  
-I'm interested in technology, art, music, psychology and cats. I love cats.
+I'm interested in technology, art, music, psychology and cats. I love cats.  
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://isabellegj.github.io/)
 
 ### ✨ How to reach me
